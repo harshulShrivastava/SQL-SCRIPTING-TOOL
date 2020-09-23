@@ -60,7 +60,7 @@ After Clicking on Connect button.
 
 you will see.
 
-![alt tag](https://github.com/SIDDHANTJOHARI/SQL-SCRIPTING-TOOL/blob/master/images/Screenshot%20from%202020-06-29%2022-54-53.png)
+![alt tag](https://github.com/harshulShrivastava/SQL-SCRIPTING-TOOL/blob/master/images/Screenshot%20from%202020-06-29%2022-54-53.png)
 
 
 
@@ -70,7 +70,7 @@ In my case I have a database named tmplacements and port Number is 1527 and serv
 
 After Clicking on Connect You will see this window.
 
-![alt tag](https://github.com/SIDDHANTJOHARI/SQL-SCRIPTING-TOOL/blob/master/images/Screenshot%20from%202020-06-29%2023-03-34.png)
+![alt tag](https://github.com/harshulShrivastava/SQL-SCRIPTING-TOOL/blob/master/images/Screenshot%20from%202020-06-29%2023-03-34.png)
 
 There are 4 section here.
 #### 1. SQL Statement:-To fire SQL query on your database.
@@ -86,15 +86,12 @@ Now you can fire any sql statement to perform operations on your database and yo
  First of all you have to set RAD(Rapid Application Development Setting) to set the base package Name and the path where you want to generate data layer.
  
  Now you can select any of the table and click on Genrate DTO Button .woahh! whole Data Layer is generated in the folder you have set in Rad Settings.
- 
- For the better Understanding you can watch this video.
- 
-  [Click me](https://youtu.be/-W6b0vwQnf0)
+
   
  Now you can click on disconnect to be disconnected from database.
   
  Now d by clicking on Quit Button you can close the Application.
  
  Thanks,
- Siddhant Johari
+Harshul Shrivastava
 
